@@ -71,12 +71,10 @@ danielthewarrior
 GabrielIonut
 jimjensen
 jmoumbraco
-KennethJakobsen
 ksuvec
 JAndrewBarta
 sxfie
 umbracowulser
-KristinaTheStoryteller
 SeaBass77
 UmbraGreen
 ilhambo
@@ -87,9 +85,7 @@ nielsthedane
 mclausen
 bergmania
 nielslyngsoe
-HalldorLyngmo
 rhealefever
-TheGeekyUnicorn
 rasmusjp
 umbrabot
 MahmoudUmbraco
@@ -99,3 +95,6 @@ thomasandresen
 Jay-umbr
 hjaltedaniel-umbraco
 nikolajlauridsen
+RyuLindow
+UmbraGreen-19
+jesperlange
